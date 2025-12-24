@@ -38,6 +38,6 @@ Las máquinas documentadas en este repositorio pertenecen a la plataforma Docker
 Este repositorio esta hecho con fines educativos, recuerda siempre practicar en entornos controlados y **no en sistemas sin autorización**
 
 ## 🕵️‍♂️ Autor
-**Diego Alvarez, Cyberdieg0**
+**Diego Alvarez, Di3goAlvZ**
 
 Este repositorio se actualizará progresivamente conforme se resuelvan nuevas máquinas.
