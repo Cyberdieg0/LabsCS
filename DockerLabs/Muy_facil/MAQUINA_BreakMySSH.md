@@ -2,7 +2,7 @@
 
 Comenzamos haciendo un escaneo de puertos
 
-
+![image alt](https://github.com/Di3goAlvZ/LabsCS/blob/main/images/ss31.png?raw=true)
 
 vemos que tiene el puerto 22 abierto, un servicio ssh version openssh 7.7. Este servicio permite enumerar usuarios válidos sin necesidad de contraseña
 
@@ -10,14 +10,14 @@ vemos que tiene el puerto 22 abierto, un servicio ssh version openssh 7.7. Este 
 
 haremos un ataque de fuerza bruta, no tenemos usuario ni password, en este tipo de CTFs el usuario a veces es root por lo que intentaremos con ese
 
-
+![image alt](https://github.com/Di3goAlvZ/LabsCS/blob/main/images/ss32.png?raw=true)
 
 el usuario coincidio y encontró un password que es “estrella”, asi que accedere por el puerto 22 
 
 —---------------------------------------------
 
 
-
+![image alt](https://github.com/Di3goAlvZ/LabsCS/blob/main/images/ss33.png?raw=true)
 
 
 entre siendo usuario root por lo que está comprometida la máquina
